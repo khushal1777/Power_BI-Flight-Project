@@ -1,5 +1,6 @@
 # Power_BI-Flight-Project
 This dashboard analyzes key flight metrics such as delays, cancellations, routes, and airline performance. It provides clear, interactive visuals to help understand flight trends and improve operational decision-making.
+
 Import the Flight Dataset
 
 Use Get Data → Excel/CSV/SQL → load tables (Flights, Airports, Airlines).
